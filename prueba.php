@@ -6,6 +6,10 @@
  * Time: 13:55
  */
 
-$perro = 'Boby';
+$perro = 'Lobo'; //cambio en local
 
-echo $perro;
+echo $perro.'<br/>';
+
+echo'Estamos agregando el primer contenido el local';
+
+?>
